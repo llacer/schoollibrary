@@ -11,7 +11,6 @@ namespace SchoolLibrary.DataAccess.Tests
     public class XMLRepositoryBookTest
     {
         IRepository<Book> Repository { get; set; }
-        public object HostingEnvironment { get; private set; }
 
         [TestInitialize]
         public void Initialize()
