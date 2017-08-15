@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Message ID="1" Text="Book not found." />
+  <Message ID="2" Text="Book is already borrowed." />
+  <Message ID="3" Text="Book is not borrowed." />
+  <Message ID="4" Text="Invalid Return Date" />
+  <Message ID="5" Text="Invalid Input Parameters" />
+  <Message ID="6" Text="Application Exception" />
+</Messages>

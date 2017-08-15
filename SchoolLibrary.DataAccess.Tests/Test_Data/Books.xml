@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book ID="3" Name="C" StudentName="" />
+  <Book ID="1" Name="A" StudentName="SN1" ReturnDate="14/08/2017" />
+  <Book ID="2" Name="B" StudentName="SN2" ReturnDate="15/08/2017" />
+</Books>
